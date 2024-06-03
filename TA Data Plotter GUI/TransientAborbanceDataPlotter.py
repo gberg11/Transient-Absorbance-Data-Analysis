@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # In[ ]:
+#This code is a GUI for visualizing 1D TA curves extracted from a .ufs surface file at different delay times
 
 
 
